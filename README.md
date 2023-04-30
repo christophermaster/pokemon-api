@@ -46,6 +46,8 @@ NOTA: A la hora de descargar el PDF tarde un poco , Solo se debe esperar
 ![Ejemplo 8: ](./img/8.png)
 <br><br>
 ![Ejemplo 9: ](./img/9.png)
+<br><br>
+![Ejemplo 9: ](./img/10.png)
 ### Mediante Postman
  * `GET http://localhost:3000/api/pokemon?limit=100&page=1&search=pikachu-alola-cap`
 
